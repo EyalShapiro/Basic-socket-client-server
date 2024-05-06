@@ -1,0 +1,3 @@
+תקשורת מרובע
+Client-Server
+עם הרבה Client

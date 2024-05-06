@@ -1,0 +1,3 @@
+שרת לכוך רגיל
+Client-Server
+עם אחד Client
